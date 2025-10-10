@@ -1,0 +1,195 @@
+[
+    {
+        "注释":[
+        	"BossModReborn_CN"
+            "Boss技能范围提示_CN",
+            "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/main/pluginmaster.json"
+        ],
+        "Author": "The Combat Reborn Team",
+        "Name": "ATK Bossmod Reborn CN",
+        "InternalName": "BossModReborn",
+        "AssemblyVersion": "7.3.0.0",
+        "Description":  "Boss技能范围提示_CN\nAutoATK\n20250916-请支持逆光喵，谢谢喵-画得更全喵",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/44451516-ff14/BossmodRebornCN",
+        "Changelog": "请支持逆光喵，谢谢喵",
+        "DalamudApiLevel":  13,
+        "LoadPriority":  0,
+        "ImageUrls":  [
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image1.png",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image2.png",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/BossmodReborn/master/Data/image3.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+        "Punchline":  "Don\u0027t fail at raid mechanics anymore",
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1658532627",
+        "DownloadLinkInstall":  "https://github.com/44451516-ff14/BossmodRebornCN/raw/main/release/BossModReborn/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/44451516-ff14/BossmodRebornCN/raw/main/release/BossModReborn/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/44451516-ff14/BossmodRebornCN/raw/main/release/BossModReborn/latest.zip"
+    },
+    {
+    	"注释":[
+        	"BossModReborn"
+            "Boss技能范围提示",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
+        ],
+        "Author": "The Combat Reborn Team",
+        "Name": "ATK BossMod Reborn",
+        "InternalName": "BossModReborn",
+        "Description": "Boss技能范围提示\nAutoATK\nA bunch of utilities to simplify boss mechanics",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 13,
+        "TestingDalamudApiLevel": 0,
+        "Tags": [
+        	"combat",
+        	"boss",
+        	"dodge",
+        	"mechanics",
+        	"pve",
+        	"raids",
+        	"trials"
+        ],
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+        "Punchline": "Don't fail at raid mechanics anymore",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.5.0/BossModReborn.zip",
+        "AssemblyVersion": "7.3.5.0",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.5.0/BossModReborn.zip",
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
+        "TestingAssemblyVersion": "1.0.2.1",
+        "Changelog": "## What's Changed\r\n* update for 7.35 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1005\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.1.31...7.3.5.0",
+        "DownloadCount": 2165969
+    },
+    {
+    	"注释":[
+        	"Rotation Solver Reborn"
+            "自动循环",
+            "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
+        ],
+        "Author": "The Combat Reborn Team",
+        "Name": "ATK Rotation Solver Reborn",
+        "InternalName": "RotationSolver",
+        "Description": "自动循环\nAutoATK\nAnalyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 13,
+        "TestingDalamudApiLevel": 13,
+        "Tags": [
+        	"combat",
+        	"rotation",
+        	"auto",
+        	"solver",
+        	"pve",
+        	"pvp"
+        ],
+        "CategoryTags": [
+        	"jobs"
+        ],
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+        "Punchline": "Analyses combat information every frame and finds the best action.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.5.3/RotationSolver.zip",
+        "AssemblyVersion": "7.3.5.3",
+        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.5.3/RotationSolver.zip",
+        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.0.49/RotationSolver.zip",
+        "TestingAssemblyVersion": "7.3.0.49",
+        "Changelog": "## What's Changed\r\n* Ninja Mudra selection tied to quest unlocks, search links added by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1027\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.3.5.2...7.3.5.3",
+        "DownloadCount": 1690135
+    },
+    {
+    	"注释":[
+        	"vnavmesh_CN"
+            "自动寻路",
+            "https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json"
+        ],
+        "Name": "ATK vnavmesh CN",
+        "InternalName": "vnavmesh",
+        "AssemblyVersion": "0.2.7.0",
+        "Author": "veyn, AtmoOmen",
+        "Punchline": "行遍千里",
+        "Description": "自动寻路_CN\nAutoATK\n不仅会自动寻路, 还能自动避障",
+        "ApplicableVersion": "any",
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 13,
+        "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+        "IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/master/icon2.png",
+        "DownloadLinkInstall": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.2.7.0/latest.zip",
+        "DownloadLinkUpdate": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.2.7.0/latest.zip"
+    },
+    {
+    	"注释":[
+        	"AutoDuty_CN"
+            "自动副本",
+            "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/repo.json"
+        ],
+    	"Author": "Herculezz",
+    	"Name": "AutoDuty CN",
+    	"InternalName": "AutoDuty",
+    	"AssemblyVersion": "0.0.0.243",
+    	"Description": "自动副本_CN\nAutoATK\nA plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (Wrath Combo, BossMod AutoRotation, or RotationSolverReborn)",
+    	"ApplicableVersion": "any",
+    	"RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
+    	"DalamudApiLevel": 13,
+    	"LoadRequiredState": 0,
+    	"LoadSync": false,
+    	"CanUnloadAsync": false,
+    	"LoadPriority": 0,
+    	"ImageUrls": [
+    		"https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
+    		"https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
+    		"https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
+    		"https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
+    		"https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+    	],
+    	"IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+    	"Punchline": "AutoDuty",
+    	"AcceptsFeedback": true,
+    	"DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
+    	"IsHide": false,
+    	"DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip"
+    },
+    {
+    	"注释":[
+        	"AutoDuty"
+            "自动副本",
+            "https://puni.sh/api/repository/herc"
+        ],
+    	"Author": "Herculezz, James, erdelf",
+    	"Name": "AutoDuty",
+    	"Punchline": "AutoDuty",
+    	"Description": "自动副本\nAutoATK\nA plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
+    	"Tags": [],
+    	"InternalName": "AutoDuty",
+    	"RepoUrl": "https://github.com/ffxivcode/AutoDuty",
+    	"DownloadCount": 906586,
+    	"LastUpdate": 1759901061,
+    	"DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.245/latest.zip",
+    	"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.245/latest.zip",
+    	"AssemblyVersion": "0.0.0.245",
+    	"ApplicableVersion": "any",
+    	"DalamudApiLevel": "13",
+    	"Changelog": "## What's Changed\r\n* moving AutoConsume after retiring by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1141\r\n* (434) The Dusk Vigil: yesno is handled by the interactable step. remove unneeded yesno steps. by @Erisen8974 in https://github.com/ffxivcode/AutoDuty/pull/1142\r\n* Disabling Dzemael and Wanderer's palace for squadrons by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1143\r\n* AutoEquip Stylist updated IPCs by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1144\r\n* squadron queueing reregisters the current party by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1145\r\n* Repair NPCs adjusted. Around 160 added by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1146\r\n* No longer following tanks during bosses by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1147\r\n\r\n**Full Changelog**: https://github.com/ffxivcode/AutoDuty/compare/0.0.0.244...0.0.0.245",
+    	"TestingAssemblyVersion": "0.0.0.240",
+    	"DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.240/testing.zip",
+    	"TestingDalamudApiLevel": "13",
+    	"IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+    	"ImageUrls": [
+    		"https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
+    		"https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
+    		"https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
+    		"https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
+    		"https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+    	]
+    },
+]
