@@ -1,7 +1,7 @@
 [
     {
-        "tips-for-me":[
-        	"BossModReborn_CN"
+        "MY-Info":[
+        	"BossModReborn_CN",
             "Boss技能范围提示_CN",
             "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/main/pluginmaster.json"
         ],
@@ -30,8 +30,8 @@
         "DownloadLinkUpdate":  "https://github.com/44451516-ff14/BossmodRebornCN/raw/main/release/BossModReborn/latest.zip"
     },
     {
-    	"tips-for-me":[
-        	"BossModReborn"
+    	"MY-Info":[
+        	"BossModReborn",
             "Boss技能范围提示",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
         ],
@@ -68,8 +68,8 @@
         "DownloadCount": 2165969
     },
     {
-    	"tips-for-me":[
-        	"Rotation Solver Reborn"
+    	"MY-Info":[
+        	"Rotation Solver Reborn",
             "自动循环",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
         ],
@@ -108,8 +108,8 @@
         "DownloadCount": 1690135
     },
     {
-    	"tips-for-me":[
-        	"vnavmesh_CN"
+    	"MY-Info":[
+        	"vnavmesh_CN",
             "自动寻路",
             "https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json"
         ],
@@ -128,8 +128,8 @@
         "DownloadLinkUpdate": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.2.7.0/latest.zip"
     },
     {
-    	"tips-for-me":[
-        	"AutoDuty_CN"
+    	"MY-Info":[
+        	"AutoDuty_CN",
             "自动副本",
             "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/repo.json"
         ],
@@ -160,8 +160,8 @@
     	"DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip"
     },
     {
-    	"tips-for-me":[
-        	"AutoDuty"
+    	"MY-Info":[
+        	"AutoDuty",
             "自动副本",
             "https://puni.sh/api/repository/herc"
         ],

@@ -1,5 +1,10 @@
 [
     {
+        "MY-Info":[
+            "BossModReborn_CN",
+            "Boss技能范围提示_CN",
+            "https://raw.githubusercontent.com/44451516-ff14/BossmodRebornCN/main/pluginmaster.json"
+        ],
         "Author": "The Combat Reborn Team",
         "Name": "Bossmod Reborn",
         "InternalName": "BossModReborn",
