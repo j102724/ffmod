@@ -31,44 +31,6 @@
     },
     {
     	"MY-Info":[
-        	"BossModReborn",
-            "Boss技能范围提示",
-            "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
-        ],
-        "Author": "The Combat Reborn Team",
-        "Name": "ATK BossMod Reborn",
-        "InternalName": "BossModReborn",
-        "Description": "Boss技能范围提示\nAutoATK\nA bunch of utilities to simplify boss mechanics",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "TestingDalamudApiLevel": 0,
-        "Tags": [
-        	"combat",
-        	"boss",
-        	"dodge",
-        	"mechanics",
-        	"pve",
-        	"raids",
-        	"trials"
-        ],
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-        "Punchline": "Don't fail at raid mechanics anymore",
-        "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.5.0/BossModReborn.zip",
-        "AssemblyVersion": "7.3.5.0",
-        "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/7.3.5.0/BossModReborn.zip",
-        "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/BossmodReborn/releases/download/1.0.2.1/BossMod.zip",
-        "TestingAssemblyVersion": "1.0.2.1",
-        "Changelog": "## What's Changed\r\n* update for 7.35 by @CarnifexOptimus in https://github.com/FFXIV-CombatReborn/BossmodReborn/pull/1005\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/BossmodReborn/compare/7.3.1.31...7.3.5.0",
-        "DownloadCount": 2165969
-    },
-    {
-    	"MY-Info":[
         	"Rotation Solver Reborn",
             "自动循环",
             "https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json"
@@ -158,38 +120,5 @@
     	"DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
     	"IsHide": false,
     	"DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip"
-    },
-    {
-    	"MY-Info":[
-        	"AutoDuty",
-            "自动副本",
-            "https://puni.sh/api/repository/herc"
-        ],
-    	"Author": "Herculezz, James, erdelf",
-    	"Name": "ATK AutoDuty",
-    	"Punchline": "AutoDuty",
-    	"Description": "自动副本\nAutoATK\nA plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
-    	"Tags": [],
-    	"InternalName": "AutoDuty",
-    	"RepoUrl": "https://github.com/ffxivcode/AutoDuty",
-    	"DownloadCount": 906586,
-    	"LastUpdate": 1759901061,
-    	"DownloadLinkInstall": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.245/latest.zip",
-    	"DownloadLinkUpdate": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.245/latest.zip",
-    	"AssemblyVersion": "0.0.0.245",
-    	"ApplicableVersion": "any",
-    	"DalamudApiLevel": "13",
-    	"Changelog": "## What's Changed\r\n* moving AutoConsume after retiring by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1141\r\n* (434) The Dusk Vigil: yesno is handled by the interactable step. remove unneeded yesno steps. by @Erisen8974 in https://github.com/ffxivcode/AutoDuty/pull/1142\r\n* Disabling Dzemael and Wanderer's palace for squadrons by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1143\r\n* AutoEquip Stylist updated IPCs by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1144\r\n* squadron queueing reregisters the current party by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1145\r\n* Repair NPCs adjusted. Around 160 added by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1146\r\n* No longer following tanks during bosses by @erdelf in https://github.com/ffxivcode/AutoDuty/pull/1147\r\n\r\n**Full Changelog**: https://github.com/ffxivcode/AutoDuty/compare/0.0.0.244...0.0.0.245",
-    	"TestingAssemblyVersion": "0.0.0.240",
-    	"DownloadLinkTesting": "https://puni.sh/api/plugins/download/54/AutoDuty/versions/0.0.0.240/testing.zip",
-    	"TestingDalamudApiLevel": "13",
-    	"IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
-    	"ImageUrls": [
-    		"https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
-    		"https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
-    		"https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
-    		"https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
-    		"https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
-    	]
     }
 ]
