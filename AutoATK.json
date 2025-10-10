@@ -134,7 +134,7 @@
             "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/repo.json"
         ],
     	"Author": "Herculezz",
-    	"Name": "AutoDuty CN",
+    	"Name": "ATK AutoDuty CN",
     	"InternalName": "AutoDuty",
     	"AssemblyVersion": "0.0.0.243",
     	"Description": "自动副本_CN\nAutoATK\nA plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (Wrath Combo, BossMod AutoRotation, or RotationSolverReborn)",
@@ -166,7 +166,7 @@
             "https://puni.sh/api/repository/herc"
         ],
     	"Author": "Herculezz, James, erdelf",
-    	"Name": "AutoDuty",
+    	"Name": "ATK AutoDuty",
     	"Punchline": "AutoDuty",
     	"Description": "自动副本\nAutoATK\nA plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
     	"Tags": [],
