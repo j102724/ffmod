@@ -1,0 +1,15 @@
+name: Auto Pull
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 每小时触发一次
+  workflow_dispatch: # 可以手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull changes
+        run: git pull origin main
