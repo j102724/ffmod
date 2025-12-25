@@ -1,9 +1,9 @@
 [
   {
     "Author": "Taurenkey, NightmareXIV",
-    "Name": "Work Saucy",
+    "Name": "B.Work Saucy",
     "Punchline": "When working for MGP is too much effort.",
-    "Description": "自动幻卡对战/nAutomates certain Gold Saucer mini-games.",
+    "Description": "自动幻卡对战\nAutomates certain Gold Saucer mini-games.",
     "Tags": [
       "gold saucer",
       "mgp",
@@ -11,7 +11,7 @@
     ],
     "InternalName": "Saucy",
     "RepoUrl": "https://github.com/PunishXIV/Saucy",
-    "DownloadCount": 462256,
+    "DownloadCount": 462285,
     "LastUpdate": 1766123382,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.8/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/1.4.2.8/latest.zip",
@@ -26,13 +26,13 @@
   },
   {
     "Author": "kawaii, NightmareXIV",
-    "Name": "Work AutoRetainer",
+    "Name": "B.Work AutoRetainer",
     "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-    "Description": "自动雇员/nCollect and assign ventures to your retainers from the comfort of your bed.",
+    "Description": "自动雇员\nCollect and assign ventures to your retainers from the comfort of your bed.",
     "Tags": [],
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-    "DownloadCount": 1706759,
+    "DownloadCount": 1706812,
     "LastUpdate": 1766099072,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.2/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/24/AutoRetainer/versions/4.5.5.2/latest.zip",
