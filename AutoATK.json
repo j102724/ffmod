@@ -3,8 +3,8 @@
     "Author": "The Combat Reborn Team",
     "Name": "A.ATK Bossmod Reborn CN",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.4.0.8",
-    "Description": "Boss技能范围提示（汉化）\n20251222-请支持逆光喵，谢谢喵-画得更全喵",
+    "AssemblyVersion": "7.4.0.9",
+    "Description": "Boss技能范围提示（汉化）\n20251229-请支持逆光喵，谢谢喵-画得更全喵",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
     "Changelog": "请支持逆光喵，谢谢喵",
@@ -51,13 +51,13 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.9/RotationSolver.zip",
-    "AssemblyVersion": "7.4.0.9",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.9/RotationSolver.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.15/RotationSolver.zip",
+    "AssemblyVersion": "7.4.0.15",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.15/RotationSolver.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.3.8.20/RotationSolver.zip",
     "TestingAssemblyVersion": "7.3.8.20",
-    "Changelog": "## What's Changed\r\n* Various fixes for PVP rotations, RDM, and swiftcast raise by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1109\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.8...7.4.0.9",
-    "DownloadCount": 2017535
+    "Changelog": "## What's Changed\r\n* Fix for status crash on SCH, fix for timeline, updated supporter list by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1117\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.14...7.4.0.15",
+    "DownloadCount": 2051972
   },
   {
     "Name": "A.ATK vnavmesh CN",
@@ -83,7 +83,7 @@
     "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
-    "AssemblyVersion": "0.0.0.280",
+    "AssemblyVersion": "0.0.0.283",
     "DalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
