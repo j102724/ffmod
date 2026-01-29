@@ -3,8 +3,8 @@
     "Author": "The Combat Reborn Team",
     "Name": "A.ATK Bossmod Reborn CN",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.4.1.3",
-    "Description": "Boss技能范围提示（汉化）\n20250112-请支持逆光喵，谢谢喵-画得更全喵",
+    "AssemblyVersion": "7.4.1.8",
+    "Description": "Boss技能范围提示（汉化）\n20250128-请支持逆光喵，谢谢喵-画得更全喵",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
     "Changelog": "请支持逆光喵，谢谢喵",
@@ -51,18 +51,18 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.32/latest.zip",
-    "AssemblyVersion": "7.4.0.32",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.32/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.1/latest.zip",
+    "AssemblyVersion": "7.4.1.1",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.33/latest.zip",
     "TestingAssemblyVersion": "7.4.0.33",
-    "Changelog": "## What's Changed\r\n* Further improvements to Heavyweight Savage performance by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1135\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.0.31...7.4.0.32",
-    "DownloadCount": 2145598
+    "Changelog": "Switched to Dalamud stable for 7.41 **Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.1.0...7.4.1.1",
+    "DownloadCount": 2215679
   },
   {
     "Name": "A.ATK vnavmesh CN",
     "InternalName": "vnavmesh",
-    "AssemblyVersion": "0.3.2.0",
+    "AssemblyVersion": "0.3.5.0",
     "Author": "veyn, AtmoOmen",
     "Punchline": "行遍千里",
     "Description": "自动寻路（汉化）\n不仅会自动寻路, 还能自动避障",
@@ -71,8 +71,8 @@
     "DalamudApiLevel": 14,
     "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
     "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/master/icon2.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.3.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.3.2.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.3.5.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.3.5.0/latest.zip"
   },
   {
     "Author": "erdelf, Herculezz",
@@ -83,7 +83,7 @@
     "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
-    "AssemblyVersion": "0.0.0.285",
+    "AssemblyVersion": "0.0.0.287",
     "DalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
@@ -92,7 +92,10 @@
       "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
       "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
       "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
-    ]
+    ],
+    "TestingAssemblyVersion": "0.0.0.286",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/testing.zip",
+    "TestingDalamudApiLevel": "14"
   },
   {
     "Author": "Faye",
@@ -123,7 +126,7 @@
     "LastUpdated": 1766235812885
   },
   {
-    "Author": "NightmareXIV, Xenosys",
+    "Author": "NightmareXIV",
     "Name": "A.ATK Splatoon",
     "Punchline": "Redefining FFXIV navigation with unlimited, precise waymarks.",
     "Description": "地面绘制\nSplatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
@@ -133,14 +136,14 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 1427299,
-    "LastUpdate": 1768029798,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.11/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.11/latest.zip",
-    "AssemblyVersion": "3.9.0.11",
+    "DownloadCount": 1520723,
+    "LastUpdate": 1769577613,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.18/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.18/latest.zip",
+    "AssemblyVersion": "3.9.0.18",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
-    "Changelog": "Improved BPO selector",
+    "Changelog": "- Library update",
     "TestingAssemblyVersion": "3.9.0.13",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.13/testing.zip",
     "TestingDalamudApiLevel": "14",
@@ -159,7 +162,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 192013,
+    "DownloadCount": 194263,
     "LastUpdate": 1766422628,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/latest.zip",
