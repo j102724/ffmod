@@ -54,10 +54,10 @@
     "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.1/latest.zip",
     "AssemblyVersion": "7.4.1.1",
     "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.0.33/latest.zip",
-    "TestingAssemblyVersion": "7.4.0.33",
+    "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
+    "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "Switched to Dalamud stable for 7.41 **Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.1.0...7.4.1.1",
-    "DownloadCount": 2215679
+    "DownloadCount": 2218679
   },
   {
     "Name": "A.ATK vnavmesh CN",
@@ -136,7 +136,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 1520723,
+    "DownloadCount": 1525271,
     "LastUpdate": 1769577613,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.18/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.18/latest.zip",
@@ -162,7 +162,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 194263,
+    "DownloadCount": 194431,
     "LastUpdate": 1766422628,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/latest.zip",
