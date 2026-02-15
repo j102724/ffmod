@@ -57,7 +57,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Hotfix for crashfix by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1158\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.1.5...7.4.1.6",
-    "DownloadCount": 2251567
+    "DownloadCount": 2253859
   },
   {
     "Name": "A.ATK vnavmesh CN",
@@ -83,7 +83,7 @@
     "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
-    "AssemblyVersion": "0.0.0.287",
+    "AssemblyVersion": "0.0.0.289",
     "DalamudApiLevel": "14",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
@@ -136,7 +136,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 1537527,
+    "DownloadCount": 1538347,
     "LastUpdate": 1769577613,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.18/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.18/update/latest.zip",
@@ -162,7 +162,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 196219,
+    "DownloadCount": 196455,
     "LastUpdate": 1766422628,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/update/latest.zip",
