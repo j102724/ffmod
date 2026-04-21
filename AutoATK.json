@@ -58,12 +58,12 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* BossModReborn timeline integration & code style update by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1219\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.4.5.29...7.4.5.30",
-    "DownloadCount": 2371217
+    "DownloadCount": 2402475
   },
   {
     "Name": "A.ATK vnavmesh CN",
     "InternalName": "vnavmesh",
-    "AssemblyVersion": "0.4.5.0",
+    "AssemblyVersion": "0.5.1.0",
     "Author": "veyn, AtmoOmen",
     "Punchline": "行遍千里",
     "Description": "自动寻路（汉化）\n不仅会自动寻路, 还能自动避障",
@@ -71,9 +71,9 @@
     "AcceptsFeedback": true,
     "DalamudApiLevel": 14,
     "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-    "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/master/icon2.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.4.5.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.4.5.0/latest.zip"
+    "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.5.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.5.1.0/latest.zip"
   },
   {
     "Author": "erdelf, Herculezz",
@@ -141,7 +141,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 1668688,
+    "DownloadCount": 1670814,
     "LastUpdate": 1773892931,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.0.25/update/latest.zip",
@@ -167,7 +167,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 201152,
+    "DownloadCount": 201684,
     "LastUpdate": 1766422628,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.15.0.0/update/latest.zip",
