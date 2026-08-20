@@ -3,8 +3,8 @@
     "Author": "The Combat Reborn Team",
     "Name": "A.ATK Bossmod Reborn CN",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.5.0.41",
-    "Description": "Boss技能范围提示（汉化）\n20260817-请支持逆光喵，谢谢喵-画得更全喵",
+    "AssemblyVersion": "7.5.0.42",
+    "Description": "Boss技能范围提示（汉化）\n20260818-请支持逆光喵，谢谢喵-画得更全喵",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
     "Changelog": "请支持逆光喵，谢谢喵",
@@ -58,7 +58,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fix countdown auto start by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1354\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.32...7.5.5.33",
-    "DownloadCount": 3043715
+    "DownloadCount": 3054153
   },
   {
     "Name": "A.ATK vnavmesh CN",
@@ -82,9 +82,9 @@
     "Description": "自动副本（汉化）\nA plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
     "InternalName": "AutoDuty",
     "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/latest.zip",
-    "AssemblyVersion": "0.0.0.330",
+    "DownloadLinkInstall": "https://github.com/lsl1225/AutoDutyCN/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lsl1225/AutoDutyCN/releases/latest/download/latest.zip",
+    "AssemblyVersion": "0.0.0.335",
     "DalamudApiLevel": "15",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
@@ -120,14 +120,14 @@
       "OCH"
     ],
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "4.0.2.28",
+    "AssemblyVersion": "4.1.0.3",
     "DownloadLinkInstall": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
     "TestingDalamudApiLevel": 15,
     "TestingAssemblyVersion": "4.0.2.9",
     "DownloadLinkTesting": "https://github.com/OhKannaDuh/BOCCHI/releases/download/4.0.2.9/latest.zip",
-    "DownloadCount": 150777,
-    "LastUpdated": 1786997378663,
+    "DownloadCount": 158588,
+    "LastUpdated": 1787132800463,
     "TestingLastUpdated": 1785958208000
   },
   {
@@ -141,7 +141,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2194957,
+    "DownloadCount": 2195970,
     "LastUpdate": 1784771545,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.21/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.21/update/latest.zip",
@@ -167,7 +167,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 246355,
+    "DownloadCount": 246796,
     "LastUpdate": 1777738875,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
