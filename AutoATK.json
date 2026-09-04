@@ -3,8 +3,8 @@
     "Author": "The Combat Reborn Team",
     "Name": "A.ATK Bossmod Reborn CN",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.5.0.58",
-    "Description": "Boss技能范围提示（汉化）\n20260825-请支持逆光喵，谢谢喵-画得更全喵",
+    "AssemblyVersion": "7.5.0.64",
+    "Description": "Boss技能范围提示（汉化）\n20260901-请支持逆光喵，谢谢喵-画得更全喵",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
     "Changelog": "请支持逆光喵，谢谢喵",
@@ -58,7 +58,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Fixes for SGE logic causing targeting issues by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1360\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.38...7.5.5.39",
-    "DownloadCount": 3118608
+    "DownloadCount": 3125159
   },
   {
     "Name": "A.ATK vnavmesh CN",
@@ -120,11 +120,11 @@
       "OCH"
     ],
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "4.2.0.8",
+    "AssemblyVersion": "4.2.0.9",
     "DownloadLinkInstall": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
-    "DownloadCount": 204176,
-    "LastUpdated": 1788176484789
+    "DownloadCount": 209445,
+    "LastUpdated": 1788364849403
   },
   {
     "Author": "NightmareXIV",
@@ -137,7 +137,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2224201,
+    "DownloadCount": 2227693,
     "LastUpdate": 1787793609,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/update/latest.zip",
@@ -163,7 +163,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 248887,
+    "DownloadCount": 249306,
     "LastUpdate": 1777738875,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
