@@ -3,8 +3,8 @@
     "Author": "The Combat Reborn Team",
     "Name": "A.ATK Bossmod Reborn CN",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.5.0.64",
-    "Description": "Boss技能范围提示（汉化）\n20260901-请支持逆光喵，谢谢喵-画得更全喵",
+    "AssemblyVersion": "7.5.6.9",
+    "Description": "Boss技能范围提示（汉化）\n20260916-请支持逆光喵，谢谢喵-画得更全喵",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
     "Changelog": "请支持逆光喵，谢谢喵",
@@ -52,18 +52,18 @@
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.5.39/latest.zip",
-    "AssemblyVersion": "7.5.5.39",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.5.39/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.6.16/latest.zip",
+    "AssemblyVersion": "7.5.6.16",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.6.16/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
-    "Changelog": "## What's Changed\r\n* Fixes for SGE logic causing targeting issues by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1360\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.5.38...7.5.5.39",
-    "DownloadCount": 3125159
+    "Changelog": "## What's Changed\r\n* Fixes for UI scaling sliders, added new optiosn for full control window and moved minimize functionality to a new M3WindowFold, and other misc fixes idk by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1385\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.6.15...7.5.6.16",
+    "DownloadCount": 3314940
   },
   {
     "Name": "A.ATK vnavmesh CN",
     "InternalName": "vnavmesh",
-    "AssemblyVersion": "0.8.1.0",
+    "AssemblyVersion": "0.8.5.0",
     "Author": "veyn, AtmoOmen",
     "Punchline": "行遍千里",
     "Description": "自动寻路（汉化）\n不仅会自动寻路, 还能自动避障",
@@ -72,8 +72,8 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
     "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.1.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.5.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.5.0/latest.zip"
   },
   {
     "Author": "erdelf, Herculezz",
@@ -82,9 +82,7 @@
     "Description": "自动副本（汉化）\nA plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
     "InternalName": "AutoDuty",
     "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
-    "DownloadLinkInstall": "https://github.com/lsl1225/AutoDutyCN/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/lsl1225/AutoDutyCN/releases/latest/download/latest.zip",
-    "AssemblyVersion": "0.0.0.335",
+    "AssemblyVersion": "0.0.0.347",
     "DalamudApiLevel": "15",
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "ImageUrls": [
@@ -94,9 +92,8 @@
       "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
       "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
     ],
-    "TestingAssemblyVersion": "0.0.0.325",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/lsl1225/DalamudPluginsCN/master/AutoDuty/testing.zip",
-    "TestingDalamudApiLevel": "15"
+    "DownloadLinkInstall": "https://github.com/lsl1225/AutoDutyCN/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lsl1225/AutoDutyCN/releases/latest/download/latest.zip"
   },
   {
     "Author": "Faye, Kage",
@@ -120,11 +117,11 @@
       "OCH"
     ],
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "4.2.0.9",
+    "AssemblyVersion": "4.2.0.17",
     "DownloadLinkInstall": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
-    "DownloadCount": 209445,
-    "LastUpdated": 1788364849403
+    "DownloadCount": 256057,
+    "LastUpdated": 1790895957194
   },
   {
     "Author": "NightmareXIV",
@@ -137,14 +134,14 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2227693,
-    "LastUpdate": 1787793609,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.25/update/latest.zip",
-    "AssemblyVersion": "3.9.2.25",
+    "DownloadCount": 2271248,
+    "LastUpdate": 1790559322,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.28/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.28/update/latest.zip",
+    "AssemblyVersion": "3.9.2.28",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- IPC hotfix",
+    "Changelog": "- Fixed an error where if script was reinstalled from unloadable state it's element overrides could reset",
     "TestingAssemblyVersion": "3.9.2.22",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.22/install/testing.zip",
     "TestingDalamudApiLevel": "15",
@@ -163,7 +160,7 @@
     ],
     "InternalName": "PalacePal",
     "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 249306,
+    "DownloadCount": 252773,
     "LastUpdate": 1777738875,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
