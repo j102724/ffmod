@@ -52,18 +52,18 @@
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.6.18/latest.zip",
-    "AssemblyVersion": "7.5.6.18",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.6.18/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.6.24/latest.zip",
+    "AssemblyVersion": "7.5.6.24",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.6.24/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
-    "Changelog": "## What's Changed\r\n* Various minor fixes by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1387\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.6.17...7.5.6.18",
-    "DownloadCount": 3325041
+    "Changelog": "## What's Changed\r\n* Fixes for Beastmaster, minor UI fixes and misc by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1395\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.6.23...7.5.6.24",
+    "DownloadCount": 3370449
   },
   {
     "Name": "A.ATK vnavmesh CN",
     "InternalName": "vnavmesh",
-    "AssemblyVersion": "0.8.5.0",
+    "AssemblyVersion": "0.8.6.0",
     "Author": "veyn, AtmoOmen",
     "Punchline": "行遍千里",
     "Description": "自动寻路（汉化）\n不仅会自动寻路, 还能自动避障",
@@ -72,8 +72,8 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
     "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.5.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.5.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.6.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.8.6.0/latest.zip"
   },
   {
     "Author": "erdelf, Herculezz",
@@ -134,40 +134,17 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2272563,
-    "LastUpdate": 1790559322,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.28/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.28/update/latest.zip",
-    "AssemblyVersion": "3.9.2.28",
+    "DownloadCount": 2295318,
+    "LastUpdate": 1791496873,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.29/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.29/update/latest.zip",
+    "AssemblyVersion": "3.9.2.29",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
-    "Changelog": "- Fixed an error where if script was reinstalled from unloadable state it's element overrides could reset",
+    "Changelog": "- Fix Trusted Repos tab rendering blank once a list is saved (by Redmoonwow)",
     "TestingAssemblyVersion": "3.9.2.22",
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.22/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/10"
-  },
-  {
-    "Author": "kawaii, jukka",
-    "Name": "A.ATK Palace Pal",
-    "Punchline": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
-    "Description": "死宫绘图\nShows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.\n\nThis plugin requires Splatoon in order to render various draws on the screen.",
-    "Tags": [
-      "potd",
-      "hoh",
-      "splatoon",
-      "palace"
-    ],
-    "InternalName": "PalacePal",
-    "RepoUrl": "https://github.com/PunishXIV/PalacePal",
-    "DownloadCount": 252901,
-    "LastUpdate": 1777738875,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/install/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/32/PalacePal/versions/4.16.0.0/update/latest.zip",
-    "AssemblyVersion": "4.16.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "",
-    "IconUrl": "https://puni.sh/api/plugins/icon/32"
   }
 ]
