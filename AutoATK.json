@@ -134,7 +134,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2328287,
+    "DownloadCount": 2328296,
     "LastUpdate": 1792020246,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.32/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.32/update/latest.zip",
@@ -146,5 +146,27 @@
     "DownloadLinkTesting": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.31/install/testing.zip",
     "TestingDalamudApiLevel": "15",
     "IconUrl": "https://puni.sh/api/plugins/icon/10"
+  },
+  {
+    "Author": "Liza Carvelli (Puni.sh) / NiGuangOwO (本地化适配)",
+    "Name": "A.ATK Palace Pal",
+    "Punchline": "在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。",
+    "Description": "死宫绘图（汉化）\n在死宫、天宫和正统优雷卡显示潜在陷阱和埋藏的宝藏。\n\n这个插件需要Splatoon才能在屏幕上渲染绘图。",
+    "Tags": [
+      "potd",
+      "palace",
+      "hoh",
+      "splatoon"
+    ],
+    "InternalName": "PalacePal",
+    "RepoUrl": "https://github.com/PunishXIV/PalacePal",
+    "AssemblyVersion": "4.15.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://s3.puni.sh/media/plugin/32/icon-vrl2a8dqi3h.png",
+    "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PalacePal/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PalacePal/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1791994438"
   }
 ]
