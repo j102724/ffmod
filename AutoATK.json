@@ -58,7 +58,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* Rotation Icon Perf by @arcwowdev in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1401\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.7.3...7.5.7.4",
-    "DownloadCount": 3412813
+    "DownloadCount": 3413918
   },
   {
     "Name": "A.ATK vnavmesh CN",
@@ -124,6 +124,31 @@
     "LastUpdated": 1791902847966
   },
   {
+    "Author": "Team Wrath",
+    "Name": "A.ATK WrathCombo",
+    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+    "Description": "新月岛循环\nTurns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
+    "Tags": [
+      "combat",
+      "rotation",
+      "pvp"
+    ],
+    "InternalName": "WrathCombo",
+    "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
+    "DownloadCount": 1258329,
+    "LastUpdate": 1792168226,
+    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/install/latest.zip",
+    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/update/latest.zip",
+    "AssemblyVersion": "1.0.4.27",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "15",
+    "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
+    "TestingAssemblyVersion": "1.0.4.21",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.21/install/testing.zip",
+    "TestingDalamudApiLevel": "15",
+    "IconUrl": "https://puni.sh/api/plugins/icon/60"
+  },
+  {
     "Author": "NightmareXIV",
     "Name": "A.ATK Splatoon",
     "Punchline": "Scriptable overlay engine for drawing mechanics, markers, and indicators in real-time",
@@ -134,7 +159,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2341065,
+    "DownloadCount": 2341817,
     "LastUpdate": 1792020246,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.32/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.32/update/latest.zip",
