@@ -52,13 +52,13 @@
     "Punchline": "Analyses combat information every frame and finds the best action.",
     "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.7.6/latest.zip",
-    "AssemblyVersion": "7.5.7.6",
-    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.7.6/latest.zip",
+    "DownloadLinkInstall": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.7.8/latest.zip",
+    "AssemblyVersion": "7.5.7.8",
+    "DownloadLinkUpdate": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.5.7.8/latest.zip",
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
-    "Changelog": "## What's Changed\r\n* Fix rare crash caused by despawning object by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1405\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.7.5...7.5.7.6",
-    "DownloadCount": 3424198
+    "Changelog": "## What's Changed\r\n* Update RebornMaterial by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1407\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.7.7...7.5.7.8",
+    "DownloadCount": 3445159
   },
   {
     "Name": "A.ATK vnavmesh CN",
@@ -117,11 +117,11 @@
       "OCH"
     ],
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "4.2.0.18",
+    "AssemblyVersion": "4.2.0.19",
     "DownloadLinkInstall": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/OhKannaDuh/BOCCHI/releases/latest/download/latest.zip",
-    "DownloadCount": 263513,
-    "LastUpdated": 1791902847966
+    "DownloadCount": 271022,
+    "LastUpdated": 1792878440728
   },
   {
     "Author": "Team Wrath",
@@ -135,7 +135,7 @@
     ],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 1259713,
+    "DownloadCount": 1263009,
     "LastUpdate": 1792168226,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/update/latest.zip",
@@ -159,7 +159,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2343420,
+    "DownloadCount": 2346714,
     "LastUpdate": 1792020246,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.32/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.32/update/latest.zip",
@@ -192,6 +192,6 @@
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PalacePal/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/PalacePal/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": "1792582896"
+    "LastUpdate": "1793031393"
   }
 ]
