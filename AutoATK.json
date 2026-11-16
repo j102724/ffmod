@@ -58,12 +58,12 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* RPR potting and spacing by @BeirutaNa1na in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1422\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.8.2...7.5.8.3",
-    "DownloadCount": 3546929
+    "DownloadCount": 3549296
   },
   {
     "Name": "A.ATK vnavmesh CN",
     "InternalName": "vnavmesh",
-    "AssemblyVersion": "0.9.2.0",
+    "AssemblyVersion": "0.9.3.0",
     "Author": "veyn, AtmoOmen",
     "Punchline": "行遍千里！",
     "Description": "自动寻路（汉化）\n不仅会自动寻路，还能自动避障。",
@@ -72,8 +72,8 @@
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
     "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
-    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.9.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.9.2.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.9.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.9.3.0/latest.zip"
   },
   {
     "Author": "erdelf, Herculezz",
@@ -135,7 +135,7 @@
     ],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 1273372,
+    "DownloadCount": 1273631,
     "LastUpdate": 1792168226,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/update/latest.zip",
@@ -159,7 +159,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2380580,
+    "DownloadCount": 2381643,
     "LastUpdate": 1793070912,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.33/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.33/update/latest.zip",
