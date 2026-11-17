@@ -3,7 +3,7 @@
     "Author": "The Combat Reborn Team",
     "Name": "A.ATK Bossmod Reborn CN",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.5.7.2",
+    "AssemblyVersion": "7.5.7.3",
     "Description": "Boss技能范围提示（汉化）\n20261022-请支持逆光喵，谢谢喵-画得更全喵",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/44451516-ff14/BossmodRebornCN",
@@ -58,7 +58,7 @@
     "DownloadLinkTesting": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn/releases/download/7.4.1.2/latest.zip",
     "TestingAssemblyVersion": "7.4.1.2",
     "Changelog": "## What's Changed\r\n* RPR potting and spacing by @BeirutaNa1na in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/1422\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.5.8.2...7.5.8.3",
-    "DownloadCount": 3549296
+    "DownloadCount": 3551489
   },
   {
     "Name": "A.ATK vnavmesh CN",
@@ -135,7 +135,7 @@
     ],
     "InternalName": "WrathCombo",
     "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-    "DownloadCount": 1273631,
+    "DownloadCount": 1274064,
     "LastUpdate": 1792168226,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/60/WrathCombo/versions/1.0.4.27/update/latest.zip",
@@ -159,7 +159,7 @@
     ],
     "InternalName": "Splatoon",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "DownloadCount": 2381643,
+    "DownloadCount": 2382995,
     "LastUpdate": 1793070912,
     "DownloadLinkInstall": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.33/install/latest.zip",
     "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/10/Splatoon/versions/3.9.2.33/update/latest.zip",
